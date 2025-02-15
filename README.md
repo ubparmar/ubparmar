@@ -1,10 +1,22 @@
-# Hi there, I'm Urjeet 👋
+# 🚀 Welcome to My Digital Playground 👨‍💻🔥  
 
-Welcome to my GitHub profile! I run a vape store and work on Laravel-based stock management systems. I'm also exploring deep learning and model training. 
+💻 Full-Stack Dev | 🤖 AI Enthusiast | 📊 Data Science Geek  
 
-### 🔧 My Tech Stack:
-- **Backend:** Laravel, Livewire, PHP
-- **Frontend:** Blade, Bootstrap
-- **AI/ML:** Python, TensorFlow, PyTorch (beginner level)
+> **"Code. Train. Deploy. Repeat."**  
 
-🚀 Always learning & building new things!
+## 🛠️ What I Do:  
+🚀 **Web Dev**: Laravel | Livewire | React | Tailwind  
+🧠 **AI/ML**: TensorFlow | PyTorch | Scikit-Learn  
+📊 **Data Science**: Pandas | NumPy | Matplotlib  
+⚡ **DevOps**: Docker | GitHub Actions  
+
+## 🔥 My GitHub Arsenal:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+
+## 🤙 Let's Connect:  
+🚀 Twitter: [@yourhandle](https://twitter.com/)  
+📩 Email: your@email.com  
+🧠 Blog: [yourblog.com](https://yourblog.com)  
+
+💀 **Warning**: High-performance coding ahead. Enter at your own risk! 💀  
