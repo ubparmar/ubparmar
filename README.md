@@ -11,8 +11,8 @@
 ⚡ **DevOps**: Docker | GitHub Actions  
 
 ## 🔥 My GitHub Arsenal:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubparmar&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubparmar&layout=compact&theme=radical)  
 
 ## 🤙 Let's Connect:  
 🚀 Twitter: [@yourhandle](https://twitter.com/)  
